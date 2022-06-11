@@ -1,0 +1,16 @@
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\bin\Debug\net5.0\OdevHataliCarpmaIslemi.exe
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\bin\Debug\net5.0\OdevHataliCarpmaIslemi.deps.json
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\bin\Debug\net5.0\OdevHataliCarpmaIslemi.runtimeconfig.json
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\bin\Debug\net5.0\OdevHataliCarpmaIslemi.runtimeconfig.dev.json
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\bin\Debug\net5.0\OdevHataliCarpmaIslemi.dll
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\bin\Debug\net5.0\ref\OdevHataliCarpmaIslemi.dll
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\bin\Debug\net5.0\OdevHataliCarpmaIslemi.pdb
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\OdevHataliCarpmaIslemi.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\OdevHataliCarpmaIslemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\OdevHataliCarpmaIslemi.AssemblyInfoInputs.cache
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\OdevHataliCarpmaIslemi.AssemblyInfo.cs
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\OdevHataliCarpmaIslemi.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\OdevHataliCarpmaIslemi.dll
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\ref\OdevHataliCarpmaIslemi.dll
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\OdevHataliCarpmaIslemi.pdb
+C:\Users\pana_\Desktop\bilge adam\5. Hafta(06.06.2022-10.06.2022) 5 gun\5. Gun\OdevHataliCarpmaIslemi\OdevHataliCarpmaIslemi\obj\Debug\net5.0\OdevHataliCarpmaIslemi.genruntimeconfig.cache
